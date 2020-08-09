@@ -1,3 +1,7 @@
+Create spotify playlists with this simple interface
+
+![Screenshot of lyrify in use](https://github.com/AmandaNiy23/spotifyjamz/blob/master/screenshot.PNG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
